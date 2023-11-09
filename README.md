@@ -1,2 +1,2 @@
 # demo
-desc of Demo
+desc of Demo for plan website students
